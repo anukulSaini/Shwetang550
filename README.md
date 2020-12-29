@@ -12,6 +12,8 @@
 <code><img height="35rem" src="https://cdn4.iconfinder.com/data/icons/jetflat-2-multimedia-vol-2/60/004_111_console_terminal_code_window_app_application-128.png" /></code>
 <code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
 
 <p align="center"> 
   Visitor count<br>
