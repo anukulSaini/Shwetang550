@@ -1,4 +1,4 @@
-<h2 align="center">Hello, I'm <a href="https://shwetang550.github.io/profile/">Shwetang</a></h2>
+<h2 align="center">Hey 👋🏻, I'm <a href="https://shwetang550.github.io/profile/">Shwetang</a></h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shwetang-3335b896/">LinkedIN</a> •
@@ -9,6 +9,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shwetang550&layout=compact&theme=dark)](https://github.com/Shwetang550/github-readme-stats)
 
 <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="35rem" />
+<img src="https://cdn4.iconfinder.com/data/icons/jetflat-2-multimedia-vol-2/60/004_111_console_terminal_code_window_app_application-128.png" height="35rem" />
 
 <p align="center"> 
   Visitor count<br>
