@@ -1,4 +1,4 @@
-<h2 align="center">Hello, I'm Shwetang</h2>
+<h2 align="center">Hello, I'm <a href="https://shwetang550.github.io/profile/">Shwetang</a></h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shwetang-3335b896/">LinkedIN</a> •
