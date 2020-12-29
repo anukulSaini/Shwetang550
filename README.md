@@ -8,7 +8,10 @@
 ![Shwetang's Github Stats](https://github-readme-stats.vercel.app/api?username=Shwetang550&theme=dark&show_icons=true) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shwetang550&layout=compact&theme=dark)](https://github.com/Shwetang550/github-readme-stats)
 
+<img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="35rem" />
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Shwetang550/count.svg" />
 </p>
+
