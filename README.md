@@ -1,7 +1,8 @@
 <h2 align="center">Hello, I'm Shwetang</h2>
 
 
-![Shwetang's Github Stats](https://github-readme-stats.vercel.app/api?username=Shwetang550&theme=dark&show_icons=true)
+![Shwetang's Github Stats](https://github-readme-stats.vercel.app/api?username=Shwetang550&theme=dark&show_icons=true) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shwetang550&layout=compact&theme=dark)](https://github.com/Shwetang550/github-readme-stats)
 
 <p align="center"> 
   Visitor count<br>
