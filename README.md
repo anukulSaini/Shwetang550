@@ -8,6 +8,9 @@
 ![Shwetang's Github Stats](https://github-readme-stats.vercel.app/api?username=Shwetang550&theme=dark&show_icons=true) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shwetang550&layout=compact&theme=dark)](https://github.com/Shwetang550/github-readme-stats)
 
+
+<img align="right" height="150rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" />
+
 <code><img height="35rem" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" /></code>
 <code><img height="35rem" src="https://cdn4.iconfinder.com/data/icons/jetflat-2-multimedia-vol-2/60/004_111_console_terminal_code_window_app_application-128.png" /></code>
 <code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -16,9 +19,6 @@
 <code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
-<p align="center">
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-  </p>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Shwetang550/count.svg" />
