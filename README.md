@@ -5,6 +5,8 @@
   <a href="https://www.instagram.com/shwetang_singh/">Instagram</a>
 </p>
 
+<img align="right" height="150rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" />
+
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
@@ -12,8 +14,7 @@
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: shwetangsingh5@gmail.com;
 
-
-<img align="right" height="150rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" /> <br>
+ <br>
 
 📈My Github stats
 <p align="center">
