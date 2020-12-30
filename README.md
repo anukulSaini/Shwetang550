@@ -5,7 +5,7 @@
   <a href="https://www.instagram.com/shwetang_singh/">Instagram</a>
 </p>
 
-![Shwetang's Github Stats](https://github-readme-stats.vercel.app/api?username=Shwetang550&theme=dark&show_icons=true) <br>
+
 <img align="right" height="150rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" /> <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shwetang550&layout=compact&theme=dark)](https://github.com/Shwetang550/github-readme-stats)
 
@@ -17,6 +17,10 @@
 <code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+
+📈My Github stats
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Shwetang550&theme=dark&show_icons=true" alt="shwetangStats" />  <br>
+
 
 <p align="center"> 
   Visitor count<br>
