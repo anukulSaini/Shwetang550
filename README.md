@@ -16,7 +16,7 @@
 
  <br>
 
-📈My Github stats
+📈 My Github stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shwetang550&theme=dark&show_icons=true" alt="shwetangStats" />  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shwetang550&layout=compact&theme=dark" alt="top-langs" />
