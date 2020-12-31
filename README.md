@@ -13,9 +13,11 @@
 - 💬  Ask me about anything, I am happy to help;
 - 📫  How to reach me: shwetangsingh5@gmail.com;
 
+***
+
  <br>
 
-📈 My Github stats
+📈 My Github stats <br />
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shwetang550&theme=dark&show_icons=true" alt="shwetangStats" />  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shwetang550&layout=compact&theme=dark" alt="top-langs" />
@@ -35,6 +37,9 @@
 <code><img alt="HTML5" height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
 <code><img alt="CSS3" height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
 
+***
+
+<br />
 
 <p align="center"> 
   Visitor count<br>
